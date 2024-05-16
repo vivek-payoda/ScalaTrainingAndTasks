@@ -1,0 +1,2 @@
+# ScalaTrainingAndTasks
+Scala daily task
